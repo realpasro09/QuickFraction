@@ -5,3 +5,10 @@ C:\Users\Rene\Documents\Visual Studio 2012\Projects\APS\WinFraccion\TestFraccion
 C:\Users\Rene\Documents\Visual Studio 2012\Projects\APS\WinFraccion\TestFracciones\obj\Debug\TestFracciones.pdb
 C:\Users\Rene\Documents\Visual Studio 2012\Projects\APS\WinFraccion\TestFracciones\bin\Debug\WinFraccion.exe
 C:\Users\Rene\Documents\Visual Studio 2012\Projects\APS\WinFraccion\TestFracciones\bin\Debug\WinFraccion.pdb
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\TestFracciones\bin\Debug\TestFracciones.dll
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\TestFracciones\bin\Debug\TestFracciones.pdb
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\TestFracciones\bin\Debug\WinFraccion.exe
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\TestFracciones\bin\Debug\WinFraccion.pdb
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\TestFracciones\obj\Debug\TestFracciones.csprojResolveAssemblyReference.cache
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\TestFracciones\obj\Debug\TestFracciones.dll
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\TestFracciones\obj\Debug\TestFracciones.pdb

@@ -7,3 +7,11 @@ C:\Users\Rene\Documents\Visual Studio 2012\Projects\APS\WinFraccion\WinFraccion\
 C:\Users\Rene\Documents\Visual Studio 2012\Projects\APS\WinFraccion\WinFraccion\obj\Debug\WinFraccion.csproj.GenerateResource.Cache
 C:\Users\Rene\Documents\Visual Studio 2012\Projects\APS\WinFraccion\WinFraccion\obj\Debug\WinFraccion.exe
 C:\Users\Rene\Documents\Visual Studio 2012\Projects\APS\WinFraccion\WinFraccion\obj\Debug\WinFraccion.pdb
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\WinFraccion\bin\Debug\WinFraccion.exe.config
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\WinFraccion\bin\Debug\WinFraccion.exe
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\WinFraccion\bin\Debug\WinFraccion.pdb
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\WinFraccion\obj\Debug\WinFraccion.csprojResolveAssemblyReference.cache
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\WinFraccion\obj\Debug\WinFraccion.Properties.Resources.resources
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\WinFraccion\obj\Debug\WinFraccion.csproj.GenerateResource.Cache
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\WinFraccion\obj\Debug\WinFraccion.exe
+C:\Users\Rene\QuickFraction\QuickFraction\WinFraccion\WinFraccion\obj\Debug\WinFraccion.pdb
