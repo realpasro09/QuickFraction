@@ -50,5 +50,11 @@ namespace winFraccion
             this.Denominador = f1.Denominador*f2.Denominador;
             this.Numerador = (f1.Numerador*f2.Denominador) + (f2.Numerador*f1.Denominador);
         }
+
+        public void Multiplicar(Fraccion f1, Fraccion f2)
+        {
+            Numerador = f1._Numerador*f2._Numerador;
+            Denominador = f1._Denominador*f2._Denominador;
+        }
     }
 }
