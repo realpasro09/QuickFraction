@@ -38,6 +38,21 @@ namespace TestFracciones
         }
 
         [TestMethod]
+        public void testMultiplicarFracciones()
+        {
+            Fraccion f1 = new Fraccion(2, 3);
+            Fraccion f2 = new Fraccion(1, 3);
+
+            Fraccion FraccionExpected = new Fraccion(2, 9);
+
+            Fraccion resultado = new Fraccion();
+            resultado.Multiplicar(f1, f2);
+
+            bool b = (resultado.Numerador == FraccionExpected.Numerador) && (resultado.Denominador == FraccionExpected.Denominador);
+            Assert.AreEqual(true, b);
+        }
+
+        [TestMethod]
         public void testDenominadorNoCERO()
         {
             Fraccion F = new Fraccion();

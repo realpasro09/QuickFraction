@@ -49,5 +49,11 @@ namespace winFraccion
         {
             throw new NotImplementedException();
         }
+
+        public void Multiplicar(Fraccion f1, Fraccion f2)
+        {
+            Numerador = f1._Numerador*f2._Numerador;
+            Denominador = f1._Denominador*f2._Denominador;
+        }
     }
 }
