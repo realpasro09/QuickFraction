@@ -18,5 +18,15 @@ namespace winFraccion
             this.Numerador = 1;
             this.Denominador = 1;
         }
+        public Fraccion(int num, int den)
+        {
+            this.Numerador = num;
+            this.Denominador = den;
+        }
+
+        public void Sumar(Fraccion f1, Fraccion f2)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
