@@ -31,7 +31,7 @@ namespace TestFracciones
             Fraccion resultado = new Fraccion();
             resultado.Sumar(f1, f2);
 
-            bool b = (resultado.Numerador == 3) && (resultado.Denominador == 3);
+            bool b = (resultado.Numerador == 9) && (resultado.Denominador == 9);
             Assert.AreEqual(true, b);
 
 

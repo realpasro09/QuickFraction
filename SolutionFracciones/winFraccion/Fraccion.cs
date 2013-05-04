@@ -47,7 +47,8 @@ namespace winFraccion
 
         public void Sumar(Fraccion f1, Fraccion f2)
         {
-            throw new NotImplementedException();
+            this.Denominador = f1.Denominador*f2.Denominador;
+            this.Numerador = (f1.Numerador*f2.Denominador) + (f2.Numerador*f1.Denominador);
         }
     }
 }
