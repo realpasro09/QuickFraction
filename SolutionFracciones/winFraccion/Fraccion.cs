@@ -31,11 +31,13 @@ namespace winFraccion
 
         public Fraccion()
         {
+            //Constructor default
             this.Numerador = 1;
             this.Denominador = 1;
         }
         public Fraccion(int num, int den)
         {
+            //Constructor con parametros 
             this.Numerador = num;
             this.Denominador = den;
         }
