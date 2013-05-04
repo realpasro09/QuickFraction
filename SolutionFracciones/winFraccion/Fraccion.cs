@@ -32,8 +32,8 @@ namespace winFraccion
         public Fraccion()
         {
             //Constructor default
-            this.Numerador = 1;
-            this.Denominador = 1;
+            Numerador = 1;
+            Denominador = 1;
         }
         public Fraccion(int num, int den)
         {
