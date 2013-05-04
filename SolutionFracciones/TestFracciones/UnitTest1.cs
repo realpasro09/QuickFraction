@@ -33,8 +33,31 @@ namespace TestFracciones
 
             bool b = (resultado.Numerador == 9) && (resultado.Denominador == 9);
             Assert.AreEqual(true, b);
+        }
 
+        public void testRestarFracciones()
+        {
+            Fraccion f1 = new Fraccion(2, 3);
+            Fraccion f2 = new Fraccion(1, 3);
 
+            Fraccion resultado = new Fraccion();
+            resultado.Sumar(f1, f2);
+
+            bool b = (resultado.Numerador == 3) && (resultado.Denominador == 9);
+            Assert.AreEqual(true, b);
+        }
+
+        [TestMethod]
+        public void testDividirFracciones()
+        {
+            Fraccion f1 = new Fraccion(2, 3);
+            Fraccion f2 = new Fraccion(1, 3);
+
+            Fraccion resultado = new Fraccion();
+            resultado.Dividir(f1, f2);
+
+            bool b = (resultado.Numerador == 6) && (resultado.Denominador == 3);
+            Assert.AreEqual(true, b);
         }
 
         [TestMethod]
