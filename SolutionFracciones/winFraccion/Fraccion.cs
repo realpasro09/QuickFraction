@@ -32,7 +32,7 @@ namespace winFraccion
         public Fraccion()
         {
             //Constructor default
-            this.Numerador = 1;
+            this.Numerador = 1; // Definidos por omision
             this.Denominador = 1;
         }
         public Fraccion(int num, int den)
