@@ -8,10 +8,26 @@ namespace winFraccion
 {
     public class Fraccion
     {
-        
-        public int Numerador { get; set; }
+        private int _Numerador;
+        private int _Denominador;
+        public int Numerador {
+            get { return _Numerador; }
+            set { _Numerador = value ;}
+        }
 
-        public int Denominador { get; set; }
+        public int Denominador
+        {
+            get 
+            { 
+                return _Denominador;  
+            }
+            set
+            {
+                if (value == 0) throw new DivideByZeroException();
+                _Denominador = value; 
+            } 
+        
+        }
 
         public Fraccion()
         {
