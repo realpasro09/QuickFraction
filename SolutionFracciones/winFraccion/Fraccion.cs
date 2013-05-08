@@ -65,8 +65,13 @@ namespace winFraccion
 
         public void Dividir(Fraccion f1, Fraccion f2)
         {
-            this.Denominador = f1.Numerador * f2.Denominador;
-            this.Numerador = f1.Denominador * f2.Numerador;
+            //Al reves, Rogger :)
+            //this.Denominador = f1.Numerador * f2.Denominador;
+            //this.Numerador = f1.Denominador * f2.Numerador;
+
+            this.Numerador = f1.Numerador * f2.Denominador;
+            this.Denominador = f1.Denominador * f2.Numerador;
+
         }
     }
 }
