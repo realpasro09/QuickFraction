@@ -50,6 +50,7 @@ namespace TestFracciones
         [TestMethod]
         public void testDividirFracciones()
         {
+            //TODO: Hay revisar este test, failed
             Fraccion f1 = new Fraccion(2, 3);
             Fraccion f2 = new Fraccion(1, 3);
 
